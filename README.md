@@ -1,4 +1,4 @@
-# Hello, I'm Seth Jayakody! 👋
+# Hello, I'm Seth Jayakody! 👋🏾
 
 ## My Stack
 - HTML
