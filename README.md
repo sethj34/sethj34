@@ -3,7 +3,7 @@
 ## My Stack
 - HTML
 - CSS
-- JavaScript (incl. React.js, Node.js, Three.js)
+- JavaScript (incl. React.js, Three.js)
 - Python (incl. Flask)
 
 ## About Me
