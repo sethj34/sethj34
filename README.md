@@ -11,7 +11,7 @@
 Computer Engineering undergraduate student based in Toronto, ON. I'm passionate about coding and music.
 
 ## Get in Touch
-- Resume: [https://docs.google.com/document/d/1DY_5tp2NGdxmLaxDwI3TVskUas1-W3jG/edit?usp=sharing&ouid=113053024112003382011&rtpof=true&sd=true](https://drive.google.com/file/d/1VRLbNaNMF-_GDHvWRGakNv5p7V83FTnx/view)
+- Resume: https://drive.google.com/file/d/1FzVFvRvNuE6wvGVT-SBvpjF7gQE2nkL7/view?usp=sharing
 - LinkedIn: https://www.linkedin.com/in/seth-jayakody/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sethj34&theme=dark)](https://git.io/streak-stats)
