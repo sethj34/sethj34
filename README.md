@@ -2,6 +2,7 @@
 
 ## My Stack
 - JavaScript (React, Node.js, Express, Three.js)
+- TypeScript
 - Python (Flask, Tensorflow)
 - C
 - HTML
