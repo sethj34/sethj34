@@ -1,7 +1,7 @@
 # Hello, I'm Seth Jayakody! 👋🏾
 
 ## My Stack
-- JavaScript (React, Node.js, Express, Three.js)
+- JavaScript (React, Node.js, Tensorflow.js, Express, Three.js)
 - TypeScript
 - Python (Flask, Tensorflow)
 - C
