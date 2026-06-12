@@ -1,7 +1,7 @@
 # Hello, I'm Seth Jayakody! 👋🏾
 
 ## My Stack
-- JavaScript (React, Node.js, Tensorflow.js, Express, Three.js)
+- JavaScript (Node, Express, Tensorflow, React, Three.js)
 - TypeScript
 - Python (Flask, Tensorflow)
 - C
@@ -9,7 +9,7 @@
 - CSS (Tailwind)
 
 ## About Me
-Computer Engineering undergraduate student based in Toronto, ON. I'm passionate about coding and music.
+Computer Engineering undergraduate student based in Toronto, ON. I'm passionate about coding, gaming, and music.
 
 ## Get in Touch
 - Resume: https://drive.google.com/file/d/1ExmpFaC2VE5Y3Jpn_Q_EeBR62EQ6JqpZ/view?usp=sharing
